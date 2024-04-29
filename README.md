@@ -12,15 +12,15 @@
 
 ### Description
 ***
-Supermium is a web browser that can run on older Windows.
+Supermium is a web browser that can run on older Windows.  
 This repository provides the source code and silent setup of Supermium.
 
 ### Install
 ***
-You need to download the installer that you want.
-And just double click on it to run the setup.
-If the setup closes without prevention, the program is successfully installed.
-And you can see the shortcut on your computer desktop.
+You need to download the installer that you want.  
+And just double click on it to run the setup.  
+If the setup closes without prevention, the program is successfully installed.  
+And you can see the shortcut on your computer desktop.  
 If the installer doesn't work, it will do nothing on your computer.
 
 ### Additional Notes
@@ -33,15 +33,15 @@ If the installer doesn't work, it will do nothing on your computer.
 
 ### Description
 ***
-Supermium est un navigateur web basé sur Chromium qui peut fonctionner sur d'ancienne version de Windows.
+Supermium est un navigateur web basé sur Chromium qui peut fonctionner sur d'ancienne version de Windows.  
 Ce dépôt fournit le code source ainsi que les setups silencieux pour Supermium.
 
 ### Installation
 ***
-Vous devez télécharger l'installeur que vous voulez.
-Et double-cliquez dessus pour lancer l'installation.
-Si l'installation se ferme sans prévenir, alors le programme est installé correctement.
-Vous devriez voir le raccourcit sur le bureau de l'ordinateur.
+Vous devez télécharger l'installeur que vous voulez.  
+Et double-cliquez dessus pour lancer l'installation.  
+Si l'installation se ferme sans prévenir, alors le programme est installé correctement.  
+Vous devriez voir le raccourcit sur le bureau de l'ordinateur.  
 Sinon l'installateur ne fonctionne pas, il ne fera aucune action sur votre ordinateur.
 
 ### Notes additionnelles
