@@ -5,7 +5,7 @@
 2. [Additional Notes](#en-additional-notes)
 
 ## Fr - Table des matières
-1. [Mise à jour Avast](#fr-install)
+1. [Installation](#fr-install)
 2. [Notes additionnelles](#fr-additional-notes)
 
 # EN Supermium NSIS Silent Installer
@@ -16,6 +16,7 @@ Supermium is a web browser that can run on older Windows.
 This repository provides the source code and silent setup of Supermium.
 
 ### Install
+<a name="en-install"></a>
 ***
 You need to download the installer that you want.  
 And just double click on it to run the setup.  
@@ -37,6 +38,7 @@ Supermium est un navigateur web basé sur Chromium qui peut fonctionner sur d'an
 Ce dépôt fournit le code source ainsi que les setups silencieux pour Supermium.
 
 ### Installation
+<a name="fr-install"></a>
 ***
 Vous devez télécharger l'installeur que vous voulez.  
 Et double-cliquez dessus pour lancer l'installation.  
